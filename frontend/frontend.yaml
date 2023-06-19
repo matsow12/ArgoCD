@@ -18,7 +18,7 @@ spec:
         app: frontend
     spec:
       containers:
-      - image: matsow12/frontend:0.0.1
+      - image: matsow12/frontend:RC-5.31ef0c4
         name: frontend
         ports:
         - containerPort: 5000
