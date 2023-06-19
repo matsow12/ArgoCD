@@ -18,7 +18,7 @@ spec:
         app: backend
     spec:
       containers:
-      - image: matsow12/backend:RC-11
+      - image: matsow12/backend:RC-12
         name: backend
         ports:
         - containerPort: 5001
